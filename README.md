@@ -1,7 +1,6 @@
 <div align="center">
 
- <div class="logo-row">
-      <svg class="logo-icon" width="48" height="48" viewBox="0 0 48 48">
+<svg class="logo-icon" width="48" height="48" viewBox="0 0 48 48">
         <!-- Recreated Flidget logo: overlapping rounded squares -->
         <!-- Cream outline frames -->
         <rect x="18" y="2" width="26" height="26" rx="5" fill="none" stroke="#D4D0B8" stroke-width="1.5"/>
@@ -13,8 +12,6 @@
         <!-- Black overlap center -->
         <rect x="20" y="22" width="10" height="10" rx="2" fill="#111110"/>
       </svg>
-      <span class="logo-name">Flidget</span>
-    </div>
 
 # Flidget
 
