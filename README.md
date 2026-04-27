@@ -1,6 +1,20 @@
 <div align="center">
 
-<img src="https://flidget.com/favicon.ico" width="64" height="64" alt="Flidget Logo" />
+ <div class="logo-row">
+      <svg class="logo-icon" width="48" height="48" viewBox="0 0 48 48">
+        <!-- Recreated Flidget logo: overlapping rounded squares -->
+        <!-- Cream outline frames -->
+        <rect x="18" y="2" width="26" height="26" rx="5" fill="none" stroke="#D4D0B8" stroke-width="1.5"/>
+        <rect x="4" y="20" width="26" height="26" rx="5" fill="none" stroke="#D4D0B8" stroke-width="1.5"/>
+        <!-- Blue square top right -->
+        <rect x="20" y="4" width="22" height="22" rx="4" fill="#3A7BD5"/>
+        <!-- Green square bottom left -->
+        <rect x="6" y="22" width="22" height="22" rx="4" fill="#2E7D32"/>
+        <!-- Black overlap center -->
+        <rect x="20" y="22" width="10" height="10" rx="2" fill="#111110"/>
+      </svg>
+      <span class="logo-name">Flidget</span>
+    </div>
 
 # Flidget
 
